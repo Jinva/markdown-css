@@ -67,7 +67,7 @@ blockquote {
   border-left: 4px solid rgb(66, 185, 131);
   background-color: rgba(66, 185, 131, 0.1);
   padding: 14px !important;
-  margin: 0px;
+  margin: 20px 0;
 }
 
 blockquote p {
